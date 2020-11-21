@@ -18,6 +18,10 @@ public class Common : MonoBehaviour
     {
         SceneManager.LoadScene("Loading");
     }
+    public void ReplayGame()
+    {
+        SceneManager.LoadScene("Start");
+    }
     // Update is called once per frame
     void Update()
     {

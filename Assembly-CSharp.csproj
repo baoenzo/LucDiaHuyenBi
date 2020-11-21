@@ -58,6 +58,7 @@
     <Compile Include="Assets\Scripts\Common.cs" />
     <Compile Include="Assets\Resource\HeroEditor\SpriteSheetMaker\SpriteSheetMaker.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\EditorScripts\EditorColorField.cs" />
+    <Compile Include="Assets\Scripts\LoadPrefab.cs" />
     <Compile Include="Assets\Resource\HeroEditor\FantasyHeroes\TestRoom\Scarecrow\Scarecrow.cs" />
     <Compile Include="Assets\Resource\Free Asset - 2D Handcrafted Art\Scripts\CamerController.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\ExampleScripts\RuntimeSetup.cs" />
@@ -69,6 +70,8 @@
     <Compile Include="Assets\Scripts\Test.cs" />
     <Compile Include="Assets\Scripts\Movement.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\Enums\FirearmType.cs" />
+    <Compile Include="Assets\Scripts\LoadScore.cs" />
+    <Compile Include="Assets\Scripts\LoadBaseGame.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\Projectile.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\CharacterSerializerExperimental.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\FirearmFire.cs" />
@@ -76,6 +79,7 @@
     <Compile Include="Assets\Resource\HeroEditor\Common\EditorScripts\CharacterReferencesResolver.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\LayerManager.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\Enums\HoldType.cs" />
+    <Compile Include="Assets\Scripts\Coin.cs" />
     <Compile Include="Assets\Scripts\Attack.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\EditorScripts\CharacterEditor.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\Shell.cs" />
@@ -87,6 +91,7 @@
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\CharacterFlip.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\FirearmReload.cs" />
     <Compile Include="Assets\Scripts\FollowChacrater.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\EditorScripts\FirearmCollection.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\Enums\MagazineType.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\EditorScripts\CharacterBodySculptor.cs" />
@@ -97,11 +102,7 @@
     <Compile Include="Assets\Scripts\LoadSence.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\Character.cs" />
     <Compile Include="Assets\Resource\HeroEditor\Common\CharacterScripts\WeaponControls.cs" />
-    <Compile Include="Assets\Scripts\LoadPrefab.cs" />
-    <Compile Include="Assets\Scripts\ScoreManager.cs" />
-    <Compile Include="Assets\Scripts\Coin.cs" />
-    <Compile Include="Assets\Scripts\LoadBaseGame.cs" />
-    <Compile Include="Assets\Scripts\LoadScore.cs" />
+    <Compile Include="Assets\Scripts\Bomb.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Resource\HeroEditor\Extension.AbandonedWorkshop [FH] [FM]\Readme.txt" />
